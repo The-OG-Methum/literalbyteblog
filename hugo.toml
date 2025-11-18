@@ -5,3 +5,4 @@ title = 'Literal Byte'
 
 [params]
   customCSS = ["css/override.css"]
+theme = "hugo-bearcub"
