@@ -1,4 +1,4 @@
 theme = ["github.com/onweru/newsroom"]
-baseURL = 'http://literalbyte.com'
+baseURL = 'https://literalbyte.com'
 languageCode = 'en-us'
 title = 'Literal Byte'
