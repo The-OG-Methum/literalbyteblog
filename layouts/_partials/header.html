@@ -1,11 +1,30 @@
-{{- $title := site.Title }}
-{{- $logoText := printf "%s %s" $title (T "logo") }}
-{{- $logo := trim site.Params.logo " " }}
+{{- $title := site.Title -}}
+{{- $logoText := printf "%s %s" $title (T "logo") -}}
+{{- $logo := trim site.Params.logo " " -}}
 
-<a href={{ absURL "" }} class="nav-brand nav_item">
-  {{- if and $logo (ne $logo "") }}
-    <img src="{{ $logo }}" alt="{{ $logoText }}"  width="130px" />
-  {{- else }}
-    <span style="font-family: 'Inter', sans-serif; font-weight:600;">{{ $title }}</span>
-  {{- end -}}
-</a>
+<header class="nav">
+  <nav class="nav-menu">
+    <a href="{{ absURL "" }}" class="nav-brand nav_item">
+      {{- if and $logo (ne $logo "") }}
+        <img src="{{ $logo }}" alt="{{ $logoText }}" width="130px" />
+      {{- else }}
+        <!-- Force Inter font for text logo -->
+        <span style="font-family: 'Inter', sans-serif; font-weight:600; font-size:1.65rem; letter-spacing:-0.02em;">
+          {{ $title }}
+        </span>
+      {{- end -}}
+    </a>
+
+    <!-- Hamburger button -->
+    <div class="nav_bar-wrap">
+      <div class="nav_bar"></div>
+    </div>
+
+    <!-- Mobile nav body -->
+    <div class="nav-body">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    </div>
+  </nav>
+</header>
