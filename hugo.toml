@@ -1,7 +1,7 @@
 # Basic config
 baseURL = "https://literalbyte.com"
 theme = "hugo-bearcub"
-copyright = "John Doe (CC BY 4.0)"
+copyright = "© 2025 Literal Byte"
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO
@@ -23,7 +23,7 @@ enableRobotsTXT = true
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "Bear Cub"
+    title = "Literal Byte"
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"

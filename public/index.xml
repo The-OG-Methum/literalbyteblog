@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bear Cub</title>
+    <title>Literal Byte</title>
     <link>https://literalbyte.com/</link>
-    <description>Recent content on Bear Cub</description>
+    <description>Recent content on Literal Byte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>methum@literalbyte.com (Methum Thimbiripola)</managingEditor>
     <webMaster>methum@literalbyte.com (Methum Thimbiripola)</webMaster>
-    <copyright>John Doe (CC BY 4.0)</copyright>
+    <copyright>© 2025 Literal Byte</copyright>
     <atom:link href="https://literalbyte.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
