@@ -2,3 +2,6 @@ theme = ["github.com/onweru/newsroom"]
 baseURL = 'https://literalbyte.com'
 languageCode = 'en-us'
 title = 'Literal Byte'
+
+[params]
+  customCSS = ["sass/override.sass"]
