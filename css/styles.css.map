@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/runner/work/literalbyteblog/literalbyteblog",
+	"sourceRoot": "/home/methum/literalbyte",
 	"sources": [
 		"_vendor/github.com/onweru/newsroom/assets/sass/main.sass",
 		"_vendor/github.com/onweru/newsroom/assets/sass/_variables.sass",
