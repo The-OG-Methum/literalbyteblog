@@ -80,3 +80,27 @@ enableRobotsTXT = true
   [params.author]
     name = "Methum Thimbiripola" # Your name as shown in the RSS feed metadata
     email = "methum@literalbyte.com" # Added to the footer so readers can reply to posts
+
+# ... keep your existing config above
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  
