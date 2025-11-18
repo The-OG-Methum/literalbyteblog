@@ -4,4 +4,4 @@ languageCode = 'en-us'
 title = 'Literal Byte'
 
 [params]
-  customCSS = ["sass/override.sass"]
+  customCSS = ["css/override.css"]
