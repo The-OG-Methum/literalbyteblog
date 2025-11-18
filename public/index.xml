@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Literal Byte</title>
-    <link>http://literalbyte.com/</link>
+    <link>https://literalbyte.com/</link>
     <description>Recent content on Literal Byte</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://literalbyte.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://literalbyte.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
