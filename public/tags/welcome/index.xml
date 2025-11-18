@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Literal Byte</title>
-    <link>https://literalbyte.com/</link>
-    <description>Recent content on Literal Byte</description>
+    <title>Welcome on Literal Byte</title>
+    <link>https://literalbyte.com/tags/welcome/</link>
+    <description>Recent content in Welcome on Literal Byte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>methum@literalbyte.com (Methum Thimbiripola)</managingEditor>
     <webMaster>methum@literalbyte.com (Methum Thimbiripola)</webMaster>
     <copyright>© 2025 Literal Byte</copyright>
     <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://literalbyte.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://literalbyte.com/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://literalbyte.com/posts/welcome-/</link>
