@@ -12,13 +12,14 @@
     <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://literalbyte.com/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://literalbyte.com/posts/welcome-/</link>
+      <title>Welcome to Literal Byte</title>
+      <link>https://literalbyte.com/posts/welcome/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><author>methum@literalbyte.com (Methum Thimbiripola)</author>
-      <guid>https://literalbyte.com/posts/welcome-/</guid>
-      <description>&lt;p&gt;Hello there! 👋&lt;/p&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;Literal Byte&lt;/strong&gt;, my personal corner on the web. This is where I’ll be sharing my thoughts, experiments, and anything that sparks my curiosity  from tech and to ideas that just pop into my head.&lt;/p&gt;&#xA;&lt;p&gt;This blog is meant to be simple, honest, and a place for exploration. I hope you enjoy reading, and maybe even learn something along the way.&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for more posts, and thanks for stopping by!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Hello there! 👋</p>
-<p>Welcome to <strong>Literal Byte</strong>, my personal corner on the web. This is where I’ll be sharing my thoughts, experiments, and anything that sparks my curiosity  from tech and to ideas that just pop into my head.</p>
+      <guid>https://literalbyte.com/posts/welcome/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://literalbyte.com/images/welcome.png&#34; alt=&#34;Welcome image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello there! 👋&lt;/p&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;Literal Byte&lt;/strong&gt;, my personal corner on the web. This is where I’ll be sharing my thoughts, experiments, and anything that sparks my curiosity from tech and coding to ideas that just pop into my head.&lt;/p&gt;&#xA;&lt;p&gt;This blog is meant to be simple, honest, and a place for exploration. I hope you enjoy reading, and maybe even learn something along the way.&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for more posts, and thanks for stopping by!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="/images/welcome.png" alt="Welcome image"></p>
+<p>Hello there! 👋</p>
+<p>Welcome to <strong>Literal Byte</strong>, my personal corner on the web. This is where I’ll be sharing my thoughts, experiments, and anything that sparks my curiosity from tech and coding to ideas that just pop into my head.</p>
 <p>This blog is meant to be simple, honest, and a place for exploration. I hope you enjoy reading, and maybe even learn something along the way.</p>
 <p>Stay tuned for more posts, and thanks for stopping by!</p>
 <p>— Methum</p>
