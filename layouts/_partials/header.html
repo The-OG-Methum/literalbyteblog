@@ -1,0 +1,11 @@
+{{- $title := site.Title }}
+{{- $logoText := printf "%s %s" $title (T "logo") }}
+{{- $logo := trim site.Params.logo " " }}
+
+<a href={{ absURL "" }} class="nav-brand nav_item">
+  {{- if and $logo (ne $logo "") }}
+    <img src="{{ $logo }}" alt="{{ $logoText }}"  width="130px" />
+  {{- else }}
+    <span style="font-family: 'Inter', sans-serif; font-weight:600;">{{ $title }}</span>
+  {{- end -}}
+</a>
