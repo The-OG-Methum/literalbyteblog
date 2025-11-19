@@ -4,7 +4,7 @@ date: 2025-11-18
 tags: ["introduction", "welcome"]
 draft: false
 ---
-![welcome.jpg](/images/welcome.jpg)
+![welcome.jpg](/attachments/welcome.jpg)
 Hello there! 👋  
 
 Welcome to **Literal Byte**, my personal corner on the web. This is where I’ll be sharing my thoughts, experiments, and anything that sparks my curiosity from tech and coding to ideas that just pop into my head.  

@@ -185,13 +185,14 @@
   },
   "active": "a9403071e18e2ea3",
   "lastOpenFiles": [
-    "_index.md",
-    "attachments/welcome.jpg",
+    "images/welcome.jpg.md",
     "blog/Welcome!.md",
+    "attachments/welcome.jpg",
+    "images",
+    "_index.md",
     "attachments",
     "attachments/dave-hoefler-MN4zxUEhyBA-unsplash.jpg",
     "dave-hoefler-MN4zxUEhyBA-unsplash.jpg",
-    "images/welcome.png.md",
-    "images"
+    "images/welcome.png.md"
   ]
 }
