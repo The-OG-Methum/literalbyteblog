@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Welcome!.md",
-                "mode": "source",
+                "file": "blog/Welcome/Welcome!.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,9 +185,10 @@
   },
   "active": "a9403071e18e2ea3",
   "lastOpenFiles": [
+    "blog/Welcome/welcome.jpg",
+    "blog/Welcome/Welcome!.md",
+    "blog/Welcome",
     "images/welcome.jpg.md",
-    "blog/Welcome!.md",
-    "attachments/welcome.jpg",
     "images",
     "_index.md",
     "attachments",

@@ -13,11 +13,11 @@
     <atom:link href="https://literalbyte.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Literal Byte</title>
-      <link>https://literalbyte.com/blog/welcome/</link>
+      <link>https://literalbyte.com/blog/welcome/welcome/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><author>methum@literalbyte.com (Methum Thimbiripola)</author>
-      <guid>https://literalbyte.com/blog/welcome/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://literalbyte.com/attachments/welcome.jpg&#34; alt=&#34;welcome.jpg&#34;&gt;&#xA;Hello there! 👋&lt;/p&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;Literal Byte&lt;/strong&gt;, my personal corner on the web. This is where I’ll be sharing my thoughts, experiments, and anything that sparks my curiosity from tech and coding to ideas that just pop into my head.&lt;/p&gt;&#xA;&lt;p&gt;This blog is meant to be simple, honest, and a place for exploration. I hope you enjoy reading, and maybe even learn something along the way.&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for more posts, and thanks for stopping by!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><img src="/attachments/welcome.jpg" alt="welcome.jpg">
+      <guid>https://literalbyte.com/blog/welcome/welcome/</guid>
+      <description>&lt;p&gt;![[welcome.jpg]]&#xA;Hello there! 👋&lt;/p&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;Literal Byte&lt;/strong&gt;, my personal corner on the web. This is where I’ll be sharing my thoughts, experiments, and anything that sparks my curiosity from tech and coding to ideas that just pop into my head.&lt;/p&gt;&#xA;&lt;p&gt;This blog is meant to be simple, honest, and a place for exploration. I hope you enjoy reading, and maybe even learn something along the way.&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for more posts, and thanks for stopping by!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>![[welcome.jpg]]
 Hello there! 👋</p>
 <p>Welcome to <strong>Literal Byte</strong>, my personal corner on the web. This is where I’ll be sharing my thoughts, experiments, and anything that sparks my curiosity from tech and coding to ideas that just pop into my head.</p>
 <p>This blog is meant to be simple, honest, and a place for exploration. I hope you enjoy reading, and maybe even learn something along the way.</p>
