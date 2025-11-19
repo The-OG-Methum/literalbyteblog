@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a02c621e26092bad",
+        "id": "d32db2a09efd151d",
         "type": "tabs",
         "children": [
           {
-            "id": "78493667fae55594",
+            "id": "a9403071e18e2ea3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,14 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "78493667fae55594",
+  "active": "a9403071e18e2ea3",
   "lastOpenFiles": [
+    "_index.md",
     "attachments/welcome.jpg",
+    "blog/Welcome!.md",
     "attachments",
     "attachments/dave-hoefler-MN4zxUEhyBA-unsplash.jpg",
     "dave-hoefler-MN4zxUEhyBA-unsplash.jpg",
-    "blog/Welcome!.md",
-    "_index.md",
     "images/welcome.png.md",
     "images"
   ]
